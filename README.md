@@ -7,7 +7,7 @@ A database was created names CrimeRecord to contain two tables named Crime Regio
 Crime Region table contains 2 fields which includes(States and Regions)
 Crime Stat table contains 4 fields which includes(States,offence category,offence sub-category,number)
 <p></p>
-The dataset came clean and it was only imported into microsoft server management studio,the Sql file can be downloaded on the master branch.
+The dataset came clean and it was only imported into microsoft server management studio,the dataset and the Sql file can be downloaded on the master branch.
 
 Below are the analysis questions:
 <p></p>
