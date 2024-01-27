@@ -6,56 +6,40 @@
 A database was created names CrimeRecord to contain two tables named Crime Region and Crime Stat.
 Crime Region table contains 2 fields which includes(States and Regions)
 Crime Stat table contains 4 fields which includes(States,offence category,offence sub-category,number)
+<p></p>
+The dataset came clean and it was only imported into microsoft server management studio,the Sql file can be downloaded on the master branch.
+
+Below are the analysis questions:
+<p></p>
+1. Which state has the highest crime in the year?<br/>
+2. Which state is said to be the most peaceful state with the least crime for the year?<br/>
+3. What is the sum total of all crimes committed in the North East?<br/>
+4. Which state has the highest number of crimes against lawful authorities?<br/>
+5. Which geo-political region is said to have the highest crime rate?<br/>
+6. What is the number of crimes committed in Lagos state?<br/>
+7. Which region would you recommend that the security agencies should pay lower attention to?<br/>
+8. Which region and state has the highest number of crimes against properties?<br/>
+9. Highlight the top 5 states with the highest number of crimes committed.<br/>
+10. Which South Eastern state has the least number of crimes committed?<br/>
+
+<p></p>
+On the file is the analysis done
+
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Software and Language Used</h2>
 
-- <b>Microsoft server management studio(SSDM) </b>
+- <b>Microsoft Server Management Studio(SSDM) </b>
+- <b>Structured Query Language(SQL) </b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Analysis walk-through:</h2>
 
 <p align="center">
 Overview of tables used for the analysis: <br/>
 <img src="https://i.imgur.com/7UCunM0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-  <!--
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
--->
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
